@@ -1,5 +1,5 @@
 # Humanitarian-OpenStreetMap-Team
-Improve communication strategies of open mapping initiatives for humanitarian purposes
+# TASK : Improve communication strategies of open mapping initiatives for humanitarian purposes
 
 HOT is an international team dedicated to humanitarian action and community development through open mapping. Open source is at the heart of the HOT Community. We create and build open source tools and run our projects with an open source ethos.
 
